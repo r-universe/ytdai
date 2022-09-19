@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "easySVG",
+    "oncran": true
+  }
+]
